@@ -1,5 +1,7 @@
 # vue-todo
 
+This is a simple project meant to learn the basics of Vue and tests
+
 ## Project setup
 ```
 yarn install
